@@ -1,3 +1,6 @@
-- 👋 Hi, I’m Mohd Zeeshan
-- 👀 I am a Student
-- 🌱 I’m currently learning web development.
+- 👋 Hi, I am Mohd Zeeshan,
+- 👀 I am a Student at Maulana Azad National University, Hyderabad.
+- 📚 I am doing B-Tech in Computer Science and this is my final year.
+- 🌱 I’m currently learning web development(frontend part is done).
+- ☕ Programming Language- Java
+- 💻 CS Fundamentals- Data Structures and Algoriths in Java.
